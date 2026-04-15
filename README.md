@@ -15,12 +15,6 @@
 
 ---
 
-## 👤 About Me
-สวัสดีครับ ผมนายธนินธร อันทรบุตร มีความสนใจด้าน **Computer Networking และ Infrastructure**  
-Portfolioนี้รวบรวมผลงานทั้งงานกลุ่มและงานเดี่ยว ครอบคลุมตั้งแต่พื้นฐานNetwork จนถึงการออกแบบระบบเครือข่าย
-
----
-
 ## 🛠️ Technical Skills
 
 | Category | Skills |
@@ -79,10 +73,5 @@ Portfolio/
 
 ## 📜 Certification
 🏅 **CCNA: Introduction to Networks**  
-📂 [ดู Certificate](./Certificate)
+📂 [ดู Certificate](./Certificates)
 
----
-## 🙏 Thank You
-ขอบคุณที่เข้ามาชม Portfolio ของผมครับ  
-
-**Made with ❤️ by Nattakorn intisan**
