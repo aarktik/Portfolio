@@ -11,7 +11,6 @@
 - 🧪 [Group Work — Lab Reports](#-group-work--lab-reports)
 - 📝 [Personal Work](#-personal-work)
 - 📜 [Certification](#-certification)
-- 🔗 [Links](#-links)
 
 ---
 
@@ -75,3 +74,8 @@ Portfolio/
 🏅 **CCNA: Introduction to Networks**  
 📂 [ดู Certificate](./Certificates)
 
+---
+
+### 🚀 Final Project
+
+github : [Animal-Ai Network](https://github.com/natchapolp-glitch/Group-14/tree/main)  
